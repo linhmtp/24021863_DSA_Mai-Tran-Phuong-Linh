@@ -65,3 +65,5 @@ int main() {
 
     return 0;
 }
+// Độ phức tạp thời gian: O(n)
+// Độ phức tạp bộ nhớ: O(n)
