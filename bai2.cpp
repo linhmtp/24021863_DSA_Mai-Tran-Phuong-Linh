@@ -28,3 +28,5 @@ int main() {
     cout << endl;
     return 0;
 }
+//Độ phức tạp thời gian: O(n^2)
+//Độ phức tạp bộ nhớ:O(1) 
