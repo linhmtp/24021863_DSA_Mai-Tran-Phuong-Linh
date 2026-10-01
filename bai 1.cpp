@@ -14,3 +14,5 @@ int main() {
     cout << "Tong cac phan tu la: " << sum << endl;
     return 0;
 }
+//Độ phức tạp thời gian:O(n)
+//Độ phức tạp bộ nhớ: O(1)
