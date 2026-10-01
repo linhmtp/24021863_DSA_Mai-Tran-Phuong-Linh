@@ -38,3 +38,5 @@ int main() {
     }
     return 0;
 }
+// Độ phức tạp thời gian: O(log(min(a, b)))
+// Độ phức tạp bộ nhớ: O(1)
